@@ -1,1 +1,1 @@
-My first readme
+Ningas are smart
